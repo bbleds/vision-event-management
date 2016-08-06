@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/bbleds/vision-event-management/issues"
   },
-  "homepage": "https://github.com/bbleds/vision-event-management#readme"
+  "homepage": "https://github.com/bbleds/vision-event-management#readme",
+  "dependencies": {
+    "jquery": "^3.1.0"
+  }
 }
