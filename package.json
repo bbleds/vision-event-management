@@ -1,0 +1,19 @@
+{
+  "name": "vision-event-management",
+  "version": "1.0.0",
+  "description": "an improved event management system for vsm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bbleds/vision-event-management.git"
+  },
+  "author": "Benjamin Bledsoe <bledsoedesigns@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bbleds/vision-event-management/issues"
+  },
+  "homepage": "https://github.com/bbleds/vision-event-management#readme"
+}
