@@ -4,7 +4,8 @@
   "description": "an improved event management system for vsm",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+		"bower": "bower"
   },
   "repository": {
     "type": "git",
@@ -17,6 +18,6 @@
   },
   "homepage": "https://github.com/bbleds/vision-event-management#readme",
   "dependencies": {
-    "jquery": "^3.1.0"
+    "bower": "^1.7.9"
   }
 }
